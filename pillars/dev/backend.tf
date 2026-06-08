@@ -7,4 +7,5 @@ terraform {
     dynamodb_table = "digi-dev-tf-lock-state"
   }
 
+
 }
